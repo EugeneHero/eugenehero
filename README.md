@@ -2,7 +2,7 @@
 
 ## I am a beginner QA engineer
 
-## Languages and Tools
+## Skills and Tools
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=2481FC)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=F26B3A)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
@@ -14,3 +14,6 @@
 
 
 Follow me
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EugeneHero&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
