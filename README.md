@@ -1,6 +1,6 @@
 ![Header](https://github.com/EugeneHero/eugenehero/blob/main/assets/head.png)
 
-About me
+I am a beginner QA engineer
 
 Languages and Tools
 
