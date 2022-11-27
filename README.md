@@ -1,4 +1,4 @@
-[![Header](https://github.com/EugeneHero/eugenehero/blob/main/assets/head.png)]
+![Header](https://github.com/EugeneHero/eugenehero/blob/main/assets/head.png)
 
 About me
 
