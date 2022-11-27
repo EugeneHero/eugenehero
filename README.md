@@ -9,6 +9,8 @@
 ![DevTools](https://img.shields.io/badge/-devtools-090909?style=for-the-badge&logo=googlechrome&logoColor=239443)
 ![MySql](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql&logoColor=E97100)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-090909?style=for-the-badge&logo=ubuntu&logoColor=DD4814)
+![TestRail](https://img.shields.io/badge/-TestRail-090909?style=for-the-badge&logo=testrail&logoColor=2481FC)
+![CharlesProxy](https://img.shields.io/badge/-Charlesproxy-090909?style=for-the-badge&logo=Charlesproxy&logoColor=2481FC)
 
 
 Follow me
