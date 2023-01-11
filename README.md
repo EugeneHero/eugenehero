@@ -13,13 +13,21 @@
 ![CharlesProxy](https://img.shields.io/badge/-Charlesproxy-090909?style=for-the-badge&logo=Charlesproxy&logoColor=2481FC)
 
 
+## Testing documentation
 
-Contacts
+[Checklists](https://github.com/EugeneHero/Checklists)
+[Test-Cases](https://github.com/EugeneHero/Checklists)
+
+
+## Contacts
 
 [![HeadHunter](https://img.shields.io/badge/-Headhunter-090909?style=for-the-badge&logo=headhunter&logoColor=2481FC)](https://tomsk.hh.ru/applicant/resumes/view?resume=1c85c82aff0b72a1430039ed1f45434e513751)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=Linkedin&logoColor=2481FC)](https://www.linkedin.com/in/%D0%B5%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9-%D0%B1%D1%83%D1%80%D0%B0%D0%B2%D0%BA%D0%B8%D0%BD-605666258/)
+<!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=Linkedin&logoColor=2481FC)](https://www.linkedin.com/in/%D0%B5%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9-%D0%B1%D1%83%D1%80%D0%B0%D0%B2%D0%BA%D0%B8%D0%BD-605666258/)-->
 [![Habr](https://img.shields.io/badge/-Habr-090909?style=for-the-badge&logo=habr&logoColor=E34D34)](https://career.habr.com/eugenehero)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=279FDA)](https://t.me/Eugenehero)
+
+
+ <!-- [![gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail&logoColor=EA4335)](https://detonator220@gmail.com) -->
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EugeneHero&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
