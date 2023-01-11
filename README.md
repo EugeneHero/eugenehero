@@ -15,8 +15,8 @@
 
 ## Testing documentation
 
-[Checklists](https://github.com/EugeneHero/Checklists)
-[Test-Cases](https://github.com/EugeneHero/Checklists)
+- [Checklists](https://github.com/EugeneHero/Checklists)
+- [Test-Cases](https://github.com/EugeneHero/Checklists)
 
 
 ## Contacts
