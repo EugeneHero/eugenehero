@@ -17,6 +17,7 @@
 
 - [Checklists](https://github.com/EugeneHero/Checklists)
 - [Test-Cases](https://github.com/EugeneHero/Checklists)
+- [Bug-reports](https://github.com/EugeneHero/Bug-reports)
 
 
 ## Contacts
